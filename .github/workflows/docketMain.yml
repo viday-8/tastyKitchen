@@ -1,4 +1,4 @@
-name: DOCLER CI
+name: DOCKER CI
 
 on: 
   workflow_dispatch:
